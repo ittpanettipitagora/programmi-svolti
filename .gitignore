@@ -26,3 +26,6 @@ yarn-debug.log*
 yarn-error.log*
 
 /python/venv
+
+# artefatto di revisione rigenerato da parse_csv.py
+/python/normalization_review.md
