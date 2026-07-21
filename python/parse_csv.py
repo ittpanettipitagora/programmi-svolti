@@ -231,10 +231,6 @@ def main():
         if raw_m not in ("", "-") and _matkey(raw_m) not in MATERIA_MAP:
             unmapped_mat.add(raw_m)
 
-        # scarta i record senza NE' classe NE' materia (card vuote)
-        if not c and not m:
-            continue
-
         out.append({
             "c": c,
             "name": m,

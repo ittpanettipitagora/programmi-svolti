@@ -27,6 +27,24 @@
     "validita": "VALIDA"
   },
   {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Spadone"
+    ],
+    "href": "https://drive.google.com/file/d/1SwUTEOQq6mfX0dOHaGpdDg-Ju6E8p18o/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Scialpi"
+    ],
+    "href": "https://drive.google.com/file/d/1HskPfeLx8g8dES7qZQYGSCxVPFKqpctE/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
     "c": "3ITCM",
     "name": "Chimica Analitica",
     "teachers": [
@@ -36,6 +54,24 @@
     "validita": "VALIDA"
   },
   {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Pascazio"
+    ],
+    "href": "https://drive.google.com/file/d/1SnsUYpkBgMjOc9037PDL61jSIAF6coFe/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Pascazio"
+    ],
+    "href": "https://drive.google.com/file/d/13_uxPMT5GfUFYlb51kYBvy_y4ADye2qM/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
     "c": "1B",
     "name": "Tecnologie e Tecniche di Rappresentazione Grafica",
     "teachers": [
@@ -43,6 +79,24 @@
     ],
     "href": "https://drive.google.com/file/d/1bwNk4Mr1yAu5nY8Xx6aWMOdsWBjOrehZ/view?usp=drivesdk",
     "validita": "VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Pascazio"
+    ],
+    "href": "https://drive.google.com/file/d/1kaLhzGg2cvJGd1YbQ3E66zEgcX8Wxqsz/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Pascazio"
+    ],
+    "href": "https://drive.google.com/file/d/1i1H3BVo1ocMMmTPHvMo-yw7mbhAJ83N0/view?usp=drivesdk",
+    "validita": "NON VALIDA"
   },
   {
     "c": "3A",
@@ -72,6 +126,15 @@
     "validita": "VALIDA"
   },
   {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Delbasso"
+    ],
+    "href": "https://drive.google.com/file/d/1Xr_WjyCqETaxLI4Scal4Ah_k1ETPqYxS/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
     "c": "2A",
     "name": "Religione Cattolica",
     "teachers": [
@@ -88,6 +151,15 @@
     ],
     "href": "https://drive.google.com/file/d/1iZqCDp6cjM85R52X4EeSAsYBcGn-Xl7h/view?usp=drivesdk",
     "validita": "VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Delbasso"
+    ],
+    "href": "https://drive.google.com/file/d/1w6xLg7xTXjBgnPizMOim6qCdcbN-JlH_/view?usp=drivesdk",
+    "validita": "NON VALIDA"
   },
   {
     "c": "3ITCAB",
@@ -127,6 +199,15 @@
   },
   {
     "c": "",
+    "name": "",
+    "teachers": [
+      "Matarrese"
+    ],
+    "href": "https://drive.google.com/file/d/1olLbU1asz1Hh1kN8pQPQiAEAshhqpJ94/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
     "name": "Geografia",
     "teachers": [
       "Magrone"
@@ -142,6 +223,24 @@
     ],
     "href": "https://drive.google.com/file/d/1E14TtJAiGw9BPhNYy_nQ_qFBiGtw8j3-/view?usp=drivesdk",
     "validita": "VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Magrone"
+    ],
+    "href": "https://drive.google.com/file/d/1r4aGR4ARq-bDIEK9wtHQ4M4aDOuO6sxL/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Magrone"
+    ],
+    "href": "https://drive.google.com/file/d/1e2WqBLHTKgQrTnk0Z_56JBoO3ihHefJO/view?usp=drivesdk",
+    "validita": "NON VALIDA"
   },
   {
     "c": "",
@@ -181,12 +280,39 @@
   },
   {
     "c": "",
+    "name": "",
+    "teachers": [
+      "Magrone"
+    ],
+    "href": "https://drive.google.com/file/d/1kqJYbFif86kH6GBIovyzEH_ZUkoSxfmB/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
     "name": "Geografia",
     "teachers": [
       "Magrone"
     ],
     "href": "https://drive.google.com/file/d/1b7dFzibb0zKoXwAPflx711_Ujqex54wZ/view?usp=drivesdk",
     "validita": "VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Magrone"
+    ],
+    "href": "https://drive.google.com/file/d/1SuG4q-kx9DJ9FaasOIQexDGJF0oCTTjG/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Magrone"
+    ],
+    "href": "https://drive.google.com/file/d/1eq6PmKgs9pe0_AnieoBk36QM_Y1v8cHT/view?usp=drivesdk",
+    "validita": "NON VALIDA"
   },
   {
     "c": "",
@@ -199,12 +325,30 @@
   },
   {
     "c": "",
+    "name": "",
+    "teachers": [
+      "Magrone"
+    ],
+    "href": "https://drive.google.com/file/d/1bZiL2yF4yjL8DSgBNt4zlz89o0chQBJE/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
     "name": "Scienze della Terra",
     "teachers": [
       "Magrone"
     ],
     "href": "https://drive.google.com/file/d/1YveOgZMvuy7Hn6K5cxEh3DWO3DBd5CIt/view?usp=drivesdk",
     "validita": "VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Magrone"
+    ],
+    "href": "https://drive.google.com/file/d/1e5nA0zkuRTHbWtu4qBH_ePgJ289YNfVl/view?usp=drivesdk",
+    "validita": "NON VALIDA"
   },
   {
     "c": "3ITIAB",
@@ -216,6 +360,78 @@
     "validita": "VALIDA"
   },
   {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Ingrosso"
+    ],
+    "href": "https://drive.google.com/file/d/1h9MKGc5XwPOHGugmoZqV11zeRoJW2nlZ/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Ingrosso"
+    ],
+    "href": "https://drive.google.com/file/d/1h0IhPhOEKm69peFnEN098m1V7QbeOYRC/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Ingrosso"
+    ],
+    "href": "https://drive.google.com/file/d/1SprNl8sRUhEE5N8YDDDvTJeuGLbHKvU5/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Mastrandrea"
+    ],
+    "href": "https://drive.google.com/file/d/1_R7Xd3WbVU7rRmQ5Qj44jn_hiHM_xL5b/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Scalioti"
+    ],
+    "href": "https://drive.google.com/file/d/1bOM8DiMdkGrXENM72NrAoHkNn-vx5Xp4/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Scalioti"
+    ],
+    "href": "https://drive.google.com/file/d/10H_6ZnuU4a_iH3lzqTS3NN2eYeVJXnEb/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Scalioti"
+    ],
+    "href": "https://drive.google.com/file/d/1yGHPhhrZWXM-RPs4DZqgq69s-Zya3ggq/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Mariani"
+    ],
+    "href": "https://drive.google.com/file/d/1lJik11EEON5AySIEdf8VsaCsdPZJL7-w/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
     "c": "4ITCAA",
     "name": "Progettazione, Costruzioni e Impianti",
     "teachers": [
@@ -223,6 +439,42 @@
     ],
     "href": "https://drive.google.com/file/d/1Cj2jFGHWRiREmuDlma13Xox0lUJef-JB/view?usp=drivesdk",
     "validita": "VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Poliseno"
+    ],
+    "href": "https://drive.google.com/file/d/1qACN1EfD6CWrNIK7gslHPBGz-_oc-wXm/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Piarulli"
+    ],
+    "href": "https://drive.google.com/file/d/1_RMC6n13Xa5PukJ-4Gsz0ef4ms7cJ3r-/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Piarulli"
+    ],
+    "href": "https://drive.google.com/file/d/1_ictQZaENs1KQ-7gz6tt8rl_tfzr1YTK/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Piarulli"
+    ],
+    "href": "https://drive.google.com/file/d/1618UPiJPwjx9n9xHxQBpQl9Ye0S4e3Xv/view?usp=drivesdk",
+    "validita": "NON VALIDA"
   },
   {
     "c": "1B",
@@ -243,6 +495,15 @@
     "validita": "VALIDA"
   },
   {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Piccolo"
+    ],
+    "href": "https://drive.google.com/file/d/16XKHRpHmb_LP04RG82k4vNFkwlhMDZmg/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
     "c": "2A",
     "name": "Diritto ed Economia",
     "teachers": [
@@ -250,6 +511,33 @@
     ],
     "href": "https://drive.google.com/file/d/1612EXypu6OtVjo5K4kGH9zphuI9tTg8N/view?usp=drivesdk",
     "validita": "VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Piccolo"
+    ],
+    "href": "https://drive.google.com/file/d/13FZD8tIWdr-Ubt60uP6Vs2E2usEq2NvD/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Fasulo"
+    ],
+    "href": "https://drive.google.com/file/d/1IdHJJvHxhJp_29aEUU1f1GUH-KujMB94/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Fasulo"
+    ],
+    "href": "https://drive.google.com/file/d/1CZoKPIOg9A6hu6TIKAw1tg7y_lrUUaQl/view?usp=drivesdk",
+    "validita": "NON VALIDA"
   },
   {
     "c": "5ITET",
@@ -270,6 +558,24 @@
     "validita": "VALIDA"
   },
   {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Fasulo"
+    ],
+    "href": "https://drive.google.com/file/d/1FR6DmnzV9j4w9mYHDdB-FX1StiJjpP03/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Fasulo"
+    ],
+    "href": "https://drive.google.com/file/d/14_fKYyBiKjWdJBnP5T88VqpIFCZ3gJJ9/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
     "c": "3ITET",
     "name": "TPSEE",
     "teachers": [
@@ -277,6 +583,15 @@
     ],
     "href": "https://drive.google.com/file/d/12Y0ygiltb6-LETEZb5AeE8v22mnVU8X9/view?usp=drivesdk",
     "validita": "VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Genco"
+    ],
+    "href": "https://drive.google.com/file/d/17nyCosgd8b3sFkd6ZppmtO20vUSeCeAY/view?usp=drivesdk",
+    "validita": "NON VALIDA"
   },
   {
     "c": "3ITIAB",
@@ -288,6 +603,51 @@
     "validita": "VALIDA"
   },
   {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Genco"
+    ],
+    "href": "https://drive.google.com/file/d/1mqmhV3GdphzoMgUFg0sOFe5BsAYV0HN2/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Genco"
+    ],
+    "href": "https://drive.google.com/file/d/1izrQoFqrYbTnoRRel4D9DO27yhDLeNN7/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Genco"
+    ],
+    "href": "https://drive.google.com/file/d/1vdDIsrnm5SlYQN8PQS4Md7sZ4GE8p8SZ/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Cantore"
+    ],
+    "href": "https://drive.google.com/file/d/19MZzkNnlqe-shRKYRT49COvIiq2aPY9X/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Cantore"
+    ],
+    "href": "https://drive.google.com/file/d/1b54qAMbR9HhDtC2OhQr3FgJ0PYqFpEFk/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
     "c": "3ITEC",
     "name": "Storia",
     "teachers": [
@@ -295,6 +655,15 @@
     ],
     "href": "https://drive.google.com/file/d/11yMx966Wijj_X-F2Y_gLfRm0aXDyUGY5/view?usp=drivesdk",
     "validita": "VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Cantore"
+    ],
+    "href": "https://drive.google.com/file/d/1yL7dNO6Q9f3tnb0qdntusuQAaYlXTRLP/view?usp=drivesdk",
+    "validita": "NON VALIDA"
   },
   {
     "c": "2E",
@@ -315,6 +684,15 @@
     "validita": "VALIDA"
   },
   {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Mastromatteo"
+    ],
+    "href": "https://drive.google.com/file/d/1IdP8vOQI4WD8Y66Md3u4XXAymPahTy4_/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
     "c": "1B",
     "name": "Matematica",
     "teachers": [
@@ -324,6 +702,15 @@
     "validita": "VALIDA"
   },
   {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Mastromatteo"
+    ],
+    "href": "https://drive.google.com/file/d/1srl7gDRWoOta0b12_jV2u0mrCAANw3lj/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
     "c": "2G",
     "name": "Scienze e Tecnologie Applicate",
     "teachers": [
@@ -331,6 +718,33 @@
     ],
     "href": "https://drive.google.com/file/d/1odq5dJt8OQSw4OkcaCtP2yzd6mk2Rtm_/view?usp=drivesdk",
     "validita": "VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Degaetano"
+    ],
+    "href": "https://drive.google.com/file/d/1P8ocjW06E3N_EsZv0s1QcjBzW4UYFQ_R/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Degaetano"
+    ],
+    "href": "https://drive.google.com/file/d/1diGyd6GqAaCZnYaU4Un-VV7alo9A8GOE/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Romito"
+    ],
+    "href": "https://drive.google.com/file/d/1B2NL80AxeuuRf_O8WDcm5aXqgID6_MXa/view?usp=drivesdk",
+    "validita": "NON VALIDA"
   },
   {
     "c": "1CATA",
@@ -349,6 +763,24 @@
     ],
     "href": "https://drive.google.com/file/d/1E5JmFaDQrelNZ8vYu_yfGSLopyMOJbtX/view?usp=drivesdk",
     "validita": "VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Romito"
+    ],
+    "href": "https://drive.google.com/file/d/1k68KTz72Lfi6-piLPkgJDoTDW1Yv5dzV/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Romito"
+    ],
+    "href": "https://drive.google.com/file/d/12edxWhXgcqvXRSC5h8KO9vtuvf9eZrQw/view?usp=drivesdk",
+    "validita": "NON VALIDA"
   },
   {
     "c": "3ITCAA",
@@ -378,6 +810,15 @@
     "validita": "VALIDA"
   },
   {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Princigalli"
+    ],
+    "href": "https://drive.google.com/file/d/1gDakqKpFn_lVftgeUjRZLbOi99OreKD_/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
     "c": "2I",
     "name": "Scienze Integrate (Fisica)",
     "teachers": [
@@ -385,6 +826,15 @@
     ],
     "href": "https://drive.google.com/file/d/1Le3Oy4hRAClCH-vvOOpgfnmxQyneToA1/view?usp=drivesdk",
     "validita": "VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Princigalli"
+    ],
+    "href": "https://drive.google.com/file/d/1HS3qis8d1ZlMhdRw3fl6gLgwLC3Mgw57/view?usp=drivesdk",
+    "validita": "NON VALIDA"
   },
   {
     "c": "2A",
@@ -423,6 +873,24 @@
     "validita": "VALIDA"
   },
   {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Parisi"
+    ],
+    "href": "https://drive.google.com/file/d/1gLl4UrTeRVZsy8ekdC3S7jQczqBdrbLH/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Parisi"
+    ],
+    "href": "https://drive.google.com/file/d/1HKznEjs7aoNjqXXGPN81a_y1V6zfwzOI/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
     "c": "1B",
     "name": "Scienze della Terra",
     "teachers": [
@@ -459,6 +927,24 @@
     "validita": "VALIDA"
   },
   {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Parisi"
+    ],
+    "href": "https://drive.google.com/file/d/1f6UjrsUBxTboz4l0NF83QxBIAdm1dIjd/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Parisi"
+    ],
+    "href": "https://drive.google.com/file/d/11Hpklnl29TXiJK19Mkm2QpEFZpKFdOvT/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
     "c": "2I",
     "name": "Scienze Integrate (Biologia)",
     "teachers": [
@@ -466,6 +952,15 @@
     ],
     "href": "https://drive.google.com/file/d/1AL1LlqRD3hWHuwJHXVhUzcM3UBtmO0HT/view?usp=drivesdk",
     "validita": "VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Mariani"
+    ],
+    "href": "programma GPOI 25_26.pdf (non archiviato)",
+    "validita": "NON VALUTATA"
   },
   {
     "c": "2G",
@@ -514,6 +1009,15 @@
     ],
     "href": "https://drive.google.com/file/d/17Og1dsK4qilxjgGAPjLaq00yxi_q6J48/view?usp=drivesdk",
     "validita": "VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Massari"
+    ],
+    "href": "https://drive.google.com/file/d/1jTxfX_rQvrDaf31McBf1dC-ICJofkaVh/view?usp=drivesdk",
+    "validita": "NON VALIDA"
   },
   {
     "c": "",
@@ -711,6 +1215,15 @@
       "Gassino"
     ],
     "href": "https://drive.google.com/file/d/1at5K_mWSIFIlglr8ci_IgEaoRIQSERQw/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Gassino"
+    ],
+    "href": "https://drive.google.com/file/d/1ucdXuGHWBybvAIduwImXZs66ZRLHCRB2/view?usp=drivesdk",
     "validita": "NON VALIDA"
   },
   {
@@ -1146,6 +1659,15 @@
     "validita": "NON VALIDA"
   },
   {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Degiglio"
+    ],
+    "href": "https://drive.google.com/file/d/1J-2nn7RcnbhvmDGZMeNIpQ60QRhf33iB/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
     "c": "2H",
     "name": "Storia",
     "teachers": [
@@ -1378,6 +1900,15 @@
     ],
     "href": "https://drive.google.com/file/d/1tf_m1IMDgEjVSjZEN8SmyJ7bKuDG3ph5/view?usp=drivesdk",
     "validita": "VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Lapresa"
+    ],
+    "href": "https://drive.google.com/file/d/1CA5YHpvM13eYTK2cMtyxAbAb1PFaCR_q/view?usp=drivesdk",
+    "validita": "NON VALIDA"
   },
   {
     "c": "1E",
@@ -2298,6 +2829,24 @@
     "validita": "VALIDA"
   },
   {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Cantalice"
+    ],
+    "href": "https://drive.google.com/file/d/19JhWS5dCJGv6nrcLzN8Jk4sRIMAJOpnC/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Cantalice"
+    ],
+    "href": "https://drive.google.com/file/d/1hIjsjbmBhU4RscriijuiI-VBn-Yoi_ra/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
     "c": "4ITCAB",
     "name": "Italiano",
     "teachers": [
@@ -2649,6 +3198,15 @@
     "validita": "VALIDA"
   },
   {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Paparella"
+    ],
+    "href": "https://drive.google.com/file/d/1MeaTif53aWc-ZkjfgqfvSoOW2cKpiMi9/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
     "c": "1D",
     "name": "Tecnologie e Tecniche di Rappresentazione Grafica",
     "teachers": [
@@ -2862,6 +3420,24 @@
       "Signorile"
     ],
     "href": "https://drive.google.com/file/d/1uXq1pcc0kAZgTe_A_beiF3cZD-wN5tPJ/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Signorile"
+    ],
+    "href": "https://drive.google.com/file/d/1VHD6msBFl5nM0C9eswlKqXlHMf8d5MEQ/view?usp=drivesdk",
+    "validita": "NON VALIDA"
+  },
+  {
+    "c": "",
+    "name": "",
+    "teachers": [
+      "Signorile"
+    ],
+    "href": "https://drive.google.com/file/d/1gFKbCKbsX4zkIo_ZIkzFQzL5rnOp8uXh/view?usp=drivesdk",
     "validita": "NON VALIDA"
   },
   {
