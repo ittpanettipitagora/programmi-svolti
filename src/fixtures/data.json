@@ -730,7 +730,7 @@
   },
   {
     "c": "4ITIAC",
-    "name": "V",
+    "name": "Informatica",
     "teachers": [
       "Degaetano"
     ],
@@ -952,15 +952,6 @@
     ],
     "href": "https://drive.google.com/file/d/1AL1LlqRD3hWHuwJHXVhUzcM3UBtmO0HT/view?usp=drivesdk",
     "validita": "VALIDA"
-  },
-  {
-    "c": "",
-    "name": "",
-    "teachers": [
-      "Mariani"
-    ],
-    "href": "programma GPOI 25_26.pdf (non archiviato)",
-    "validita": "NON VALUTATA"
   },
   {
     "c": "2G",

@@ -233,11 +233,16 @@ def main():
         if raw_m not in ("", "-") and _matkey(raw_m) not in MATERIA_MAP:
             unmapped_mat.add(raw_m)
 
+        href = norm_href(r["Link al documento"])
+        # scarta i record senza un vero link al documento (es. "non archiviato")
+        if not re.match(r"https?://", href):
+            continue
+
         out.append({
             "c": c,
             "name": m,
             "teachers": norm_teacher(r["Cognome"]),
-            "href": norm_href(r["Link al documento"]),
+            "href": href,
             "validita": r["Stima validità"].strip(),
         })
 
