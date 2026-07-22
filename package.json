@@ -1,5 +1,5 @@
 {
-  "name": "filterable-cards",
+  "name": "programmi-svolti",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,5 +39,5 @@
   "devDependencies": {
     "sass": "^1.52.2"
   },
-  "homepage": "https://giuseppemastrandrea.github.io/programmi-svolti/"
+  "homepage": "https://ittpanettipitagora.github.io/programmi-svolti/"
 }
