@@ -28,12 +28,12 @@ function App() {
       <div className="container">
         <div className="title">
           <h1>
-            Programmi Svolti a.s. 2024/25
+            Programmi Svolti a.s. 2025/26
           </h1>
         </div>
         <div className="description">
           <p>
-            In questa pagina potrai trovare i programmi svolti per tutte le materie relative all'anno scolastico 2024/25.
+            In questa pagina potrai trovare i programmi svolti per tutte le materie relative all'anno scolastico 2025/26.
           </p>
           <h2>
             Utilizza il campo di testo per cercare il programma che ti interessa

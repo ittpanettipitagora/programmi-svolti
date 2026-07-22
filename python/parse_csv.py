@@ -83,6 +83,7 @@ MATERIA_MAP_RAW = {
     "SCIENZE INTEGRATE (CHIMICA)": "Scienze Integrate (Chimica)",
     "SCIENZE INTEGRATE (FISICA)": "Scienze Integrate (Fisica)",
     "SCIENZE INTEGRATE - FISICA": "Scienze Integrate (Fisica)",
+    "FISICA": "Scienze Integrate (Fisica)",
     "SCIENZE MOTORIE": "Scienze Motorie e Sportive",
     "SCIENZE MOTORIE E SPORTIVE": "Scienze Motorie e Sportive",
     "Sistemi": "Sistemi Automatici",
@@ -92,6 +93,7 @@ MATERIA_MAP_RAW = {
     "STORIA": "Storia",
     "T.P.S.E.E.": "TPSEE",
     "TPSEE": "TPSEE",
+    "TPSE": "TPSEE",  # refuso: TPSE -> TPSEE (classe 4ITET/S)
     "TPSIT": "TPSIT",
     "Tecnologia e Tecniche di Rappresentazione Grafica":
         "Tecnologie e Tecniche di Rappresentazione Grafica",

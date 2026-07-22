@@ -27,7 +27,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "4A",
     "name": "",
     "teachers": [
       "Spadone"
@@ -36,7 +36,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "4ITCM",
     "name": "",
     "teachers": [
       "Scialpi"
@@ -54,7 +54,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "1A",
     "name": "",
     "teachers": [
       "Pascazio"
@@ -63,7 +63,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "2I",
     "name": "",
     "teachers": [
       "Pascazio"
@@ -81,7 +81,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "2A",
     "name": "",
     "teachers": [
       "Pascazio"
@@ -90,7 +90,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "2B",
     "name": "",
     "teachers": [
       "Pascazio"
@@ -117,7 +117,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "1A",
     "name": "Religione Cattolica",
     "teachers": [
       "Delbasso"
@@ -126,7 +126,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "1B",
     "name": "",
     "teachers": [
       "Delbasso"
@@ -153,7 +153,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "3ITCAA",
     "name": "",
     "teachers": [
       "Delbasso"
@@ -198,7 +198,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "3ITEC",
     "name": "",
     "teachers": [
       "Matarrese"
@@ -207,7 +207,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "1C",
     "name": "Geografia",
     "teachers": [
       "Magrone"
@@ -216,7 +216,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "1C",
     "name": "Chimica e Laboratorio",
     "teachers": [
       "Magrone"
@@ -225,7 +225,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "2C",
     "name": "",
     "teachers": [
       "Magrone"
@@ -234,7 +234,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "2D",
     "name": "",
     "teachers": [
       "Magrone"
@@ -243,7 +243,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "1C",
     "name": "Scienze della Terra",
     "teachers": [
       "Magrone"
@@ -252,7 +252,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "1D",
     "name": "Chimica e Laboratorio",
     "teachers": [
       "Magrone"
@@ -261,7 +261,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "1D",
     "name": "Geografia",
     "teachers": [
       "Magrone"
@@ -270,7 +270,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "1G",
     "name": "Scienze della Terra",
     "teachers": [
       "Magrone"
@@ -279,7 +279,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "2C",
     "name": "",
     "teachers": [
       "Magrone"
@@ -288,7 +288,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "1D",
     "name": "Geografia",
     "teachers": [
       "Magrone"
@@ -297,7 +297,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "1C",
     "name": "",
     "teachers": [
       "Magrone"
@@ -306,7 +306,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "1G",
     "name": "",
     "teachers": [
       "Magrone"
@@ -315,7 +315,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "2C",
     "name": "Biologia",
     "teachers": [
       "Magrone"
@@ -324,7 +324,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "1C",
     "name": "",
     "teachers": [
       "Magrone"
@@ -333,7 +333,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "1D",
     "name": "Scienze della Terra",
     "teachers": [
       "Magrone"
@@ -342,7 +342,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "2D",
     "name": "",
     "teachers": [
       "Magrone"
@@ -360,8 +360,8 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "3ITIAB",
+    "name": "Italiano",
     "teachers": [
       "Ingrosso"
     ],
@@ -369,8 +369,8 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "4ITIAB",
+    "name": "Italiano",
     "teachers": [
       "Ingrosso"
     ],
@@ -378,8 +378,8 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "4ITIAB",
+    "name": "Storia",
     "teachers": [
       "Ingrosso"
     ],
@@ -387,8 +387,8 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "3ITIAC",
+    "name": "Sistemi e Reti",
     "teachers": [
       "Mastrandrea"
     ],
@@ -396,8 +396,8 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "1E",
+    "name": "Diritto ed Economia",
     "teachers": [
       "Scalioti"
     ],
@@ -405,8 +405,8 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "2E",
+    "name": "Diritto ed Economia",
     "teachers": [
       "Scalioti"
     ],
@@ -414,8 +414,8 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "2E",
+    "name": "Diritto ed Economia",
     "teachers": [
       "Scalioti"
     ],
@@ -423,8 +423,8 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "4ITIAB",
+    "name": "Sistemi e Reti",
     "teachers": [
       "Mariani"
     ],
@@ -441,8 +441,8 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "3ITCAA",
+    "name": "Progettazione, Costruzioni e Impianti",
     "teachers": [
       "Poliseno"
     ],
@@ -450,8 +450,8 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "4ITIAC",
+    "name": "Matematica",
     "teachers": [
       "Piarulli"
     ],
@@ -459,8 +459,8 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "3ITIAB",
+    "name": "Matematica",
     "teachers": [
       "Piarulli"
     ],
@@ -468,8 +468,8 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "1L",
+    "name": "Matematica",
     "teachers": [
       "Piarulli"
     ],
@@ -495,7 +495,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "2B",
     "name": "",
     "teachers": [
       "Piccolo"
@@ -513,7 +513,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "1I",
     "name": "",
     "teachers": [
       "Piccolo"
@@ -522,7 +522,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "5ITEC",
     "name": "",
     "teachers": [
       "Fasulo"
@@ -531,7 +531,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "4ITET",
     "name": "",
     "teachers": [
       "Fasulo"
@@ -558,7 +558,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "5ITET",
     "name": "",
     "teachers": [
       "Fasulo"
@@ -567,7 +567,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "3ITET",
     "name": "",
     "teachers": [
       "Fasulo"
@@ -585,7 +585,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "3ITIAA",
     "name": "",
     "teachers": [
       "Genco"
@@ -603,8 +603,8 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "4ITIAA",
+    "name": "Telecomunicazioni",
     "teachers": [
       "Genco"
     ],
@@ -612,8 +612,8 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "4ITIAB",
+    "name": "Telecomunicazioni",
     "teachers": [
       "Genco"
     ],
@@ -621,8 +621,8 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "4ITIAC",
+    "name": "Telecomunicazioni",
     "teachers": [
       "Genco"
     ],
@@ -630,8 +630,8 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "4ITEC",
+    "name": "Storia",
     "teachers": [
       "Cantore"
     ],
@@ -639,8 +639,8 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "4ITEC",
+    "name": "Italiano",
     "teachers": [
       "Cantore"
     ],
@@ -657,8 +657,8 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "3ITEC",
+    "name": "Italiano",
     "teachers": [
       "Cantore"
     ],
@@ -702,8 +702,8 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "3ITCAB",
+    "name": "Matematica",
     "teachers": [
       "Mastromatteo"
     ],
@@ -720,8 +720,8 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "3ITIAC",
+    "name": "Informatica",
     "teachers": [
       "Degaetano"
     ],
@@ -729,8 +729,8 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "4ITIAC",
+    "name": "V",
     "teachers": [
       "Degaetano"
     ],
@@ -738,8 +738,8 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "1A",
+    "name": "Italiano",
     "teachers": [
       "Romito"
     ],
@@ -765,8 +765,8 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "3ITCAB",
+    "name": "Italiano",
     "teachers": [
       "Romito"
     ],
@@ -774,8 +774,8 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "3ITCAB",
+    "name": "Storia",
     "teachers": [
       "Romito"
     ],
@@ -810,8 +810,8 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "1B",
+    "name": "Scienze Integrate (Fisica)",
     "teachers": [
       "Princigalli"
     ],
@@ -828,8 +828,8 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "1A",
+    "name": "Scienze Integrate (Fisica)",
     "teachers": [
       "Princigalli"
     ],
@@ -873,8 +873,8 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "1A",
+    "name": "Scienze della Terra",
     "teachers": [
       "Parisi"
     ],
@@ -882,8 +882,8 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "1B",
+    "name": "Geografia",
     "teachers": [
       "Parisi"
     ],
@@ -927,8 +927,8 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "2A",
+    "name": "Scienze Integrate (Biologia)",
     "teachers": [
       "Parisi"
     ],
@@ -936,8 +936,8 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "2B",
+    "name": "Scienze Integrate (Biologia)",
     "teachers": [
       "Parisi"
     ],
@@ -1092,7 +1092,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "1L",
     "name": "Chimica",
     "teachers": [
       "Lamantia"
@@ -1209,7 +1209,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "4ITETS",
     "name": "Elettrotecnica ed Elettronica",
     "teachers": [
       "Gassino"
@@ -1218,8 +1218,8 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
-    "name": "",
+    "c": "4ITETS",
+    "name": "TPSEE",
     "teachers": [
       "Gassino"
     ],
@@ -1452,16 +1452,16 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "3ITCM",
     "name": "Scienze Motorie e Sportive",
     "teachers": [
       "Damasco"
     ],
     "href": "https://drive.google.com/file/d/1cdJrDuBRa58lHNEROSwnFnylOoxMvgM_/view?usp=drivesdk",
-    "validita": "NON VALIDA"
+    "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "2B",
     "name": "Scienze Motorie e Sportive",
     "teachers": [
       "Damasco"
@@ -1479,7 +1479,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "4ITCM",
     "name": "Scienze Motorie e Sportive",
     "teachers": [
       "Damasco"
@@ -1488,7 +1488,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "2D",
     "name": "Scienze Motorie e Sportive",
     "teachers": [
       "Damasco"
@@ -1560,7 +1560,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "2I",
     "name": "Scienze e Tecnologie Applicate",
     "teachers": [
       "Paternoster"
@@ -1614,7 +1614,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "2I",
     "name": "Scienze e Tecnologie Applicate",
     "teachers": [
       "Paternoster"
@@ -1650,7 +1650,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "1I",
     "name": "Italiano",
     "teachers": [
       "Degiglio"
@@ -1659,7 +1659,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "1I",
     "name": "",
     "teachers": [
       "Degiglio"
@@ -1767,7 +1767,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "1I",
     "name": "Religione Cattolica",
     "teachers": [
       "Ricciardi"
@@ -1866,7 +1866,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "1C",
     "name": "Tecnologie Informatiche",
     "teachers": [
       "Lapresa"
@@ -2001,7 +2001,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "1I",
     "name": "Religione Cattolica",
     "teachers": [
       "Ricciardi"
@@ -2235,7 +2235,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "1A",
     "name": "Scienze Motorie e Sportive",
     "teachers": [
       "Romita"
@@ -2244,7 +2244,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "2I",
     "name": "Scienze Motorie e Sportive",
     "teachers": [
       "Romita"
@@ -2280,7 +2280,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "4ITEC",
     "name": "Matematica",
     "teachers": [
       "Bilucaglia"
@@ -2289,7 +2289,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "3ITEC",
     "name": "Matematica",
     "teachers": [
       "Bilucaglia"
@@ -2298,7 +2298,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "4ITEC",
     "name": "Matematica",
     "teachers": [
       "Bilucaglia"
@@ -2676,7 +2676,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "1H",
     "name": "Scienze Motorie e Sportive",
     "teachers": [
       "Difranco"
@@ -2694,7 +2694,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "1F",
     "name": "Scienze Motorie e Sportive",
     "teachers": [
       "Difranco"
@@ -2703,7 +2703,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "1G",
     "name": "Scienze Motorie e Sportive",
     "teachers": [
       "Difranco"
@@ -2712,7 +2712,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "2F",
     "name": "Scienze Motorie e Sportive",
     "teachers": [
       "Difranco"
@@ -2721,7 +2721,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "2H",
     "name": "Scienze Motorie e Sportive",
     "teachers": [
       "Difranco"
@@ -2730,7 +2730,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "2G",
     "name": "Scienze Motorie e Sportive",
     "teachers": [
       "Difranco"
@@ -2811,7 +2811,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "1G",
     "name": "Tecnologie e Tecniche di Rappresentazione Grafica",
     "teachers": [
       "Magrino"
@@ -2829,7 +2829,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "3ITETS",
     "name": "",
     "teachers": [
       "Cantalice"
@@ -2838,7 +2838,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "4ITETS",
     "name": "",
     "teachers": [
       "Cantalice"
@@ -3081,7 +3081,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "1I",
     "name": "Diritto ed Economia",
     "teachers": [
       "Ciraci"
@@ -3198,7 +3198,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "4ITETS",
     "name": "",
     "teachers": [
       "Paparella"
@@ -3414,7 +3414,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "1G",
     "name": "Antologia",
     "teachers": [
       "Signorile"
@@ -3423,7 +3423,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "2G",
     "name": "",
     "teachers": [
       "Signorile"
@@ -3432,7 +3432,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "2G",
     "name": "",
     "teachers": [
       "Signorile"
@@ -3522,7 +3522,7 @@
     "validita": "VALIDA"
   },
   {
-    "c": "",
+    "c": "1C",
     "name": "Inglese",
     "teachers": [
       "Deluisi"
@@ -3540,7 +3540,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "1E",
     "name": "Inglese",
     "teachers": [
       "Deluisi"
@@ -3549,7 +3549,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "1G",
     "name": "Inglese",
     "teachers": [
       "Deluisi"
@@ -3558,7 +3558,7 @@
     "validita": "NON VALIDA"
   },
   {
-    "c": "",
+    "c": "1I",
     "name": "Inglese",
     "teachers": [
       "Deluisi"
