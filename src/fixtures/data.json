@@ -207,154 +207,10 @@
     "validita": "VALIDA"
   },
   {
-    "c": "1C",
-    "name": "Geografia",
-    "teachers": [
-      "Magrone"
-    ],
-    "href": "https://drive.google.com/file/d/1K1Mw-vIzBd5qsntcCB_-o2BekVhFHYAr/view?usp=drivesdk",
-    "validita": "VALIDA"
-  },
-  {
-    "c": "1",
-    "name": "Chimica e Laboratorio",
-    "teachers": [
-      "Magrone"
-    ],
-    "href": "https://drive.google.com/file/d/1gKErm5gAcleNWlrmYXCqxOwCSrX0KJeg/view?usp=drivesdk",
-    "validita": "VALIDA"
-  },
-  {
-    "c": "1",
-    "name": "Scienze della Terra",
-    "teachers": [
-      "Magrone"
-    ],
-    "href": "https://drive.google.com/file/d/1UD22XxuKo_Wieyz60MUi3FL8nlu7aai6/view?usp=drivesdk",
-    "validita": "VALIDA"
-  },
-  {
-    "c": "1C",
-    "name": "Geografia",
-    "teachers": [
-      "Magrone"
-    ],
-    "href": "https://drive.google.com/file/d/1PxHDwN2-LoNpijYKv6zDgoM5-1khmoZn/view?usp=drivesdk",
-    "validita": "VALIDA"
-  },
-  {
-    "c": "2",
-    "name": "Biologia",
-    "teachers": [
-      "Magrone"
-    ],
-    "href": "https://drive.google.com/file/d/17uu8nwmA-qubIErYfk9g3AIYPAzRCbRM/view?usp=drivesdk",
-    "validita": "VALIDA"
-  },
-  {
-    "c": "2",
-    "name": "Chimica",
-    "teachers": [
-      "Magrone"
-    ],
-    "href": "https://drive.google.com/file/d/1Q1WZ9Jdv9wsI8lPrz7ohOaeKCd9FDkZG/view?usp=drivesdk",
-    "validita": "VALIDA"
-  },
-  {
-    "c": "1",
-    "name": "Chimica e Laboratorio",
-    "teachers": [
-      "Magrone"
-    ],
-    "href": "https://drive.google.com/file/d/1Dv9s1NKzntXZKv7VHXXQGw5W4aTmpv-u/view?usp=drivesdk",
-    "validita": "VALIDA"
-  },
-  {
-    "c": "1",
-    "name": "Scienze della Terra",
-    "teachers": [
-      "Magrone"
-    ],
-    "href": "https://drive.google.com/file/d/1GV5x82sFWt-egs2Q9OVMz5Y3O18NZI34/view?usp=drivesdk",
-    "validita": "VALIDA"
-  },
-  {
-    "c": "1",
-    "name": "Scienze della Terra",
-    "teachers": [
-      "Magrone"
-    ],
-    "href": "https://drive.google.com/file/d/1xJyZQ1xzqucSmXDHrRhzq7JMv3nKBJnR/view?usp=drivesdk",
-    "validita": "VALIDA"
-  },
-  {
-    "c": "2",
-    "name": "Biologia",
-    "teachers": [
-      "Magrone"
-    ],
-    "href": "https://drive.google.com/file/d/1IoKqhkO3XfxvPiowtBlz1r-GzHLb201z/view?usp=drivesdk",
-    "validita": "VALIDA"
-  },
-  {
-    "c": "1",
-    "name": "Scienze della Terra",
-    "teachers": [
-      "Magrone"
-    ],
-    "href": "https://drive.google.com/file/d/18bll1g338UmZRJ6IKISWk69QtvKSgz-K/view?usp=drivesdk",
-    "validita": "VALIDA"
-  },
-  {
-    "c": "2",
-    "name": "Biologia",
-    "teachers": [
-      "Magrone"
-    ],
-    "href": "https://drive.google.com/file/d/1AGhmOa5cDCjUFdm4jM628qAQwr9xTeDd/view?usp=drivesdk",
-    "validita": "VALIDA"
-  },
-  {
-    "c": "1D",
-    "name": "Geografia",
-    "teachers": [
-      "Magrone"
-    ],
-    "href": "https://drive.google.com/file/d/1sl6vDmU2wED2SfKQYTKvHwrL--pjA2Ft/view?usp=drivesdk",
-    "validita": "VALIDA"
-  },
-  {
-    "c": "1",
-    "name": "Chimica e Laboratorio",
-    "teachers": [
-      "Magrone"
-    ],
-    "href": "https://drive.google.com/file/d/1wdeWfWo-HRceexl9mP94s2MOPKw-PAXH/view?usp=drivesdk",
-    "validita": "VALIDA"
-  },
-  {
-    "c": "1",
-    "name": "Chimica e Laboratorio",
-    "teachers": [
-      "Magrone"
-    ],
-    "href": "https://drive.google.com/file/d/1p7LVG2q8wRmqn4fSR8h3EGwnJc_aSXjy/view?usp=drivesdk",
-    "validita": "VALIDA"
-  },
-  {
-    "c": "2",
-    "name": "Chimica",
-    "teachers": [
-      "Magrone"
-    ],
-    "href": "https://drive.google.com/file/d/1p_4uxnRQ3JndNJs_TAMC2wYTwq85b_jM/view?usp=drivesdk",
-    "validita": "VALIDA"
-  },
-  {
     "c": "3ITIAB",
     "name": "Storia",
     "teachers": [
-      "Ingrosso"
+      "09/06/2026 2.09.50"
     ],
     "href": "https://drive.google.com/file/d/1mkHtO6iLp_OntZYySyarhFZWhCFUFPdF/view?usp=drivesdk",
     "validita": "VALIDA"
@@ -363,7 +219,7 @@
     "c": "3ITIAB",
     "name": "Italiano",
     "teachers": [
-      "Ingrosso"
+      "09/06/2026 2.09.50"
     ],
     "href": "https://drive.google.com/file/d/11lhWuLJwirx-uKGhF9pgb_To4lzZsSoG/view?usp=drivesdk",
     "validita": "VALIDA"
@@ -372,7 +228,7 @@
     "c": "4ITIAB",
     "name": "Storia",
     "teachers": [
-      "Ingrosso"
+      "09/06/2026 2.09.50"
     ],
     "href": "https://drive.google.com/file/d/1BTVBiKn0eXxVPUQUbVPywsiD1yeZkJZ2/view?usp=drivesdk",
     "validita": "VALIDA"
@@ -381,7 +237,7 @@
     "c": "4ITIAB",
     "name": "Italiano",
     "teachers": [
-      "Ingrosso"
+      "09/06/2026 2.09.50"
     ],
     "href": "https://drive.google.com/file/d/1TIUQRNMzkyFvKV1S8yBVMusJlDxhzj2C/view?usp=drivesdk",
     "validita": "VALIDA"
@@ -390,7 +246,7 @@
     "c": "3ITIAC",
     "name": "Sistemi e Reti",
     "teachers": [
-      "Mastrandrea"
+      "09/06/2026 9.22.29"
     ],
     "href": "https://drive.google.com/file/d/12A9lV1LW20S7iAsEEl9TpKqp9ykh0yD2/view?usp=drivesdk",
     "validita": "VALIDA"
@@ -399,7 +255,7 @@
     "c": "1E",
     "name": "Diritto ed Economia",
     "teachers": [
-      "Scalioti"
+      "09/06/2026 12.18.30"
     ],
     "href": "https://drive.google.com/file/d/1cUo3Ql4s9vpB0G7rpF_MVC5L-TeAI2HE/view?usp=drivesdk",
     "validita": "VALIDA"
@@ -408,7 +264,7 @@
     "c": "2E",
     "name": "Diritto ed Economia",
     "teachers": [
-      "Scalioti"
+      "09/06/2026 12.18.30"
     ],
     "href": "https://drive.google.com/file/d/15m32tGt2e-RDanlN4Dv6H2VVPIvRg2mQ/view?usp=drivesdk",
     "validita": "VALIDA"
@@ -417,7 +273,7 @@
     "c": "2F",
     "name": "Diritto ed Economia",
     "teachers": [
-      "Scalioti"
+      "09/06/2026 12.18.30"
     ],
     "href": "https://drive.google.com/file/d/1U5ZLvgeZKwFI9obNbHiY3n8TcJ0IHno3/view?usp=drivesdk",
     "validita": "VALIDA"
@@ -426,7 +282,7 @@
     "c": "4ITIAB",
     "name": "Sistemi e Reti",
     "teachers": [
-      "Mariani"
+      "09/06/2026 18.23.26"
     ],
     "href": "https://drive.google.com/file/d/1SV8Eg08AfuhSSsy8R2F2a3exQd6VcpPl/view?usp=drivesdk",
     "validita": "VALIDA"
@@ -435,7 +291,7 @@
     "c": "4ITCAA",
     "name": "Progettazione, Costruzioni e Impianti",
     "teachers": [
-      "Poliseno"
+      "09/06/2026 19.34.35"
     ],
     "href": "https://drive.google.com/file/d/1RCrMqTLb7sjchkVGLdE2xqxKLsiJA1re/view?usp=drivesdk",
     "validita": "VALIDA"
@@ -444,7 +300,7 @@
     "c": "3ITCAA",
     "name": "Progettazione, Costruzioni e Impianti",
     "teachers": [
-      "Poliseno"
+      "09/06/2026 19.34.35"
     ],
     "href": "https://drive.google.com/file/d/132uQNZWxJMhe_GKyMsQeOq3GlZMS52ER/view?usp=drivesdk",
     "validita": "VALIDA"
@@ -453,7 +309,7 @@
     "c": "4ITIAC",
     "name": "Matematica",
     "teachers": [
-      "Piarulli"
+      "10/06/2026 13.38.32"
     ],
     "href": "https://drive.google.com/file/d/1w0JnhvBr9CO8tAXc54CJL36fhXV5Tl5i/view?usp=drivesdk",
     "validita": "VALIDA"
@@ -462,7 +318,7 @@
     "c": "1L",
     "name": "Matematica",
     "teachers": [
-      "Piarulli"
+      "10/06/2026 13.38.32"
     ],
     "href": "https://drive.google.com/file/d/1OqHLy6c-bwS661lx0KLcqfvsc1T4eTuG/view?usp=drivesdk",
     "validita": "VALIDA"
@@ -471,7 +327,7 @@
     "c": "3ITIAB",
     "name": "Matematica",
     "teachers": [
-      "Piarulli"
+      "10/06/2026 13.38.32"
     ],
     "href": "https://drive.google.com/file/d/1Isi4zHnemylxLa0isRiayXn9jOjFnl7d/view?usp=drivesdk",
     "validita": "VALIDA"
@@ -480,7 +336,7 @@
     "c": "1B",
     "name": "Diritto ed Economia Politica",
     "teachers": [
-      "Piccolo"
+      "10/06/2026 21.56.09"
     ],
     "href": "https://drive.google.com/file/d/1xkhiSZxzqZ0J3whE1lgFWlEI6Omwtj4N/view?usp=drivesdk",
     "validita": "VALIDA"
@@ -489,7 +345,7 @@
     "c": "2A",
     "name": "Diritto ed Economia",
     "teachers": [
-      "Piccolo"
+      "10/06/2026 21.56.09"
     ],
     "href": "https://drive.google.com/file/d/15GXZDPJ4KZhoTp9e6-rpt7YXm7gfUUSo/view?usp=drivesdk",
     "validita": "VALIDA"
@@ -3822,6 +3678,150 @@
       "Lorusso"
     ],
     "href": "https://drive.google.com/file/d/1IvkHWUs4bVUSrJDrbAxsJBgsCY50aaNO/view?usp=drivesdk",
+    "validita": "VALIDA"
+  },
+  {
+    "c": "1C",
+    "name": "Geografia",
+    "teachers": [
+      "Magrone"
+    ],
+    "href": "https://drive.google.com/file/d/1bIG-pWK7874Z39tbyFD40fRw0VXWCETj/view?usp=drivesdk",
+    "validita": "VALIDA"
+  },
+  {
+    "c": "2C",
+    "name": "Biologia",
+    "teachers": [
+      "Magrone"
+    ],
+    "href": "https://drive.google.com/file/d/1aM-Nu2jVq9uJBq5ufM1ZqNuHPb0BQ0KP/view?usp=drivesdk",
+    "validita": "VALIDA"
+  },
+  {
+    "c": "1G",
+    "name": "Scienze della Terra",
+    "teachers": [
+      "Magrone"
+    ],
+    "href": "https://drive.google.com/file/d/1RMn7fgqYbq9R6zyJYq4Z_gW6kQkWfOh4/view?usp=drivesdk",
+    "validita": "VALIDA"
+  },
+  {
+    "c": "1D",
+    "name": "Chimica e Laboratorio",
+    "teachers": [
+      "Magrone"
+    ],
+    "href": "https://drive.google.com/file/d/1cKrJk1hgfJV5wO3v7lCXEJ7vhu9AV93h/view?usp=drivesdk",
+    "validita": "VALIDA"
+  },
+  {
+    "c": "1D",
+    "name": "Chimica e Laboratorio",
+    "teachers": [
+      "Magrone"
+    ],
+    "href": "https://drive.google.com/file/d/1aJg8fN5UoY_56WI8YbWVtmH85YdmjoOK/view?usp=drivesdk",
+    "validita": "VALIDA"
+  },
+  {
+    "c": "1C",
+    "name": "Geografia",
+    "teachers": [
+      "Magrone"
+    ],
+    "href": "https://drive.google.com/file/d/10pB-D56Ex9doXALXHuYkZXjkZ3Q_zMyt/view?usp=drivesdk",
+    "validita": "VALIDA"
+  },
+  {
+    "c": "2C",
+    "name": "Chimica e Laboratorio",
+    "teachers": [
+      "Magrone"
+    ],
+    "href": "https://drive.google.com/file/d/1aA6VgvHCDc_QzwyuVvbz8yoBOfuth5hE/view?usp=drivesdk",
+    "validita": "VALIDA"
+  },
+  {
+    "c": "1C",
+    "name": "Chimica e Laboratorio",
+    "teachers": [
+      "Magrone"
+    ],
+    "href": "https://drive.google.com/file/d/1lq1i2MgOD6HkHMQQsB09Fn_p7ba3xTob/view?usp=drivesdk",
+    "validita": "VALIDA"
+  },
+  {
+    "c": "2C",
+    "name": "Biologia",
+    "teachers": [
+      "Magrone"
+    ],
+    "href": "https://drive.google.com/file/d/1rGwHwf5G0K1UNpep7CX_XTdKYOiTLSgv/view?usp=drivesdk",
+    "validita": "VALIDA"
+  },
+  {
+    "c": "1C",
+    "name": "Scienze della Terra",
+    "teachers": [
+      "Magrone"
+    ],
+    "href": "https://drive.google.com/file/d/1HRNGeh8FSEiwF042fetgmsDuzCDwa98i/view?usp=drivesdk",
+    "validita": "VALIDA"
+  },
+  {
+    "c": "1D",
+    "name": "Geografia",
+    "teachers": [
+      "Magrone"
+    ],
+    "href": "https://drive.google.com/file/d/1zsLqZQCnBp3IN68_k7_vIJdYMJ_NWZU7/view?usp=drivesdk",
+    "validita": "VALIDA"
+  },
+  {
+    "c": "1G",
+    "name": "Scienze della Terra",
+    "teachers": [
+      "Magrone"
+    ],
+    "href": "https://drive.google.com/file/d/1ffAbXKGrjDd0WPKIzfjCfCuUWYFfjsat/view?usp=drivesdk",
+    "validita": "VALIDA"
+  },
+  {
+    "c": "2D",
+    "name": "Biologia",
+    "teachers": [
+      "Magrone"
+    ],
+    "href": "https://drive.google.com/file/d/1xXFNLfMeuUaAihY_49gCEI06emJ_1SnM/view?usp=drivesdk",
+    "validita": "VALIDA"
+  },
+  {
+    "c": "2C",
+    "name": "Chimica e Laboratorio",
+    "teachers": [
+      "Magrone"
+    ],
+    "href": "https://drive.google.com/file/d/1K7mt_mhk3msuvtRFIQxdKB8LN5I-evFZ/view?usp=drivesdk",
+    "validita": "VALIDA"
+  },
+  {
+    "c": "1D",
+    "name": "Scienze della Terra",
+    "teachers": [
+      "Magrone"
+    ],
+    "href": "https://drive.google.com/file/d/1Zm_g501O7ztSuRwU3IvI8_1QUNft0FkX/view?usp=drivesdk",
+    "validita": "VALIDA"
+  },
+  {
+    "c": "1G",
+    "name": "Chimica e Laboratorio",
+    "teachers": [
+      "Magrone"
+    ],
+    "href": "https://drive.google.com/file/d/1mRznUctlDNwEtagAEGC3q14RrU9ZMC-5/view?usp=drivesdk",
     "validita": "VALIDA"
   }
 ]
