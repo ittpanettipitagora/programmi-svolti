@@ -92,6 +92,7 @@ MATERIA_MAP_RAW = {
     "SISTEMI e RETI": "Sistemi e Reti",
     "STORIA": "Storia",
     "T.P.S.E.E.": "TPSEE",
+    "Tecnologie e Progettazione di Sistemi Elettrici ed Elettronici (TPSEE)": "TPSEE",
     "TPSEE": "TPSEE",
     "TPSE": "TPSEE",  # refuso: TPSE -> TPSEE (classe 4ITET/S)
     "TPSIT": "TPSIT",
@@ -109,6 +110,25 @@ MATERIA_MAP_RAW = {
 MATERIA_MAP = {_matkey(k): v for k, v in MATERIA_MAP_RAW.items()}
 
 
+# parole che restano minuscole nel fallback Title Case (tranne se iniziali)
+MINUSCOLE = {"e", "ed", "di", "del", "della", "delle", "dei", "degli", "da",
+             "in", "il", "la", "le", "lo", "l", "i", "gli", "a", "ai", "al",
+             "con", "per", "su", "tra", "fra", "ad"}
+
+
+def _title_it(s):
+    parole = s.split(" ")
+    out = []
+    for i, w in enumerate(parole):
+        if i > 0 and w.lower() in MINUSCOLE:
+            out.append(w.lower())
+        elif w.isupper() and len(w) > 1:
+            out.append(w.title())  # ALL CAPS -> Title Case
+        else:
+            out.append(w[:1].upper() + w[1:] if w else w)
+    return " ".join(out)
+
+
 def norm_materia(raw):
     s = (raw or "").strip()
     if s in ("", "-"):
@@ -116,8 +136,8 @@ def norm_materia(raw):
     key = _matkey(s)
     if key in MATERIA_MAP:
         return MATERIA_MAP[key]
-    # fallback: Title Case, segnalata come non mappata
-    return s.title()
+    # fallback: Title Case italiano, segnalata come non mappata
+    return _title_it(s)
 
 
 # --- normalizzazione CLASSI -------------------------------------------------
@@ -150,6 +170,11 @@ def norm_class(raw):
         return ("", False)
     if s in CLASS_OVERRIDE:
         return (CLASS_OVERRIDE[s], False)
+
+    # suffisso ordinale femminile minuscolo ("1a F", "2a H", "1 a G",
+    # "4a ITIAC"): non e' la sezione, va rimosso. Solo se seguito da altro
+    # testo, cosi' un "3a" isolato resta interpretato come sezione A.
+    s = re.sub(r"(?<=[1-5])\s*a(?=\s+\S)", "", s)
 
     u = s.upper()
     u = u.replace("_", " ").replace("/", " ").replace("-", " ")
